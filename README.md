@@ -11,10 +11,10 @@
 Tuần này tập trung lấy lại cảm giác với code C++ và làm quen ngay với Git.
 
 ### Ngày 1: 
-- [x] Cài đặt môi trường (VS Code), cài đặt Git, tạo tài khoản GitHub/GitLab. Code bài "Hello World", cấu hình file .gitignore cơ bản cho C++ và push lên Git.
+- [X] Cài đặt môi trường (VS Code), cài đặt Git, tạo tài khoản GitHub/GitLab. Code bài "Hello World", cấu hình file .gitignore cơ bản cho C++ và push lên Git.
 
 ### Ngày 2: 
-- Ôn tập các kiểu dữ liệu, vòng lặp (for, while), cấu trúc rẽ nhánh (if/else, switch). Viết 2-3 chương trình tính toán cơ bản.
+- [X] Ôn tập các kiểu dữ liệu, vòng lặp (for, while), cấu trúc rẽ nhánh (if/else, switch). Viết 2-3 chương trình tính toán cơ bản.
 
 ### Ngày 3: 
 - Ôn tập Hàm (Functions). Phân biệt rõ Truyền tham trị (Pass by value) và Truyền tham chiếu (Pass by reference). 
