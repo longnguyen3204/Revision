@@ -17,7 +17,7 @@ Tuần này tập trung lấy lại cảm giác với code C++ và làm quen nga
 - [X] Ôn tập các kiểu dữ liệu, vòng lặp (for, while), cấu trúc rẽ nhánh (if/else, switch). Viết 2-3 chương trình tính toán cơ bản.
 
 ### Ngày 3: 
-- Ôn tập Hàm (Functions). Phân biệt rõ Truyền tham trị (Pass by value) và Truyền tham chiếu (Pass by reference). 
+- [X] Ôn tập Hàm (Functions). Phân biệt rõ Truyền tham trị (Pass by value) và Truyền tham chiếu (Pass by reference). 
 
 ### Ngày 4: 
 - Ôn tập Mảng tĩnh (Static Array) và Chuỗi (std::string). Viết hàm đảo ngược chuỗi, tìm phần tử lớn nhất trong 
