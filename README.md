@@ -20,7 +20,7 @@ Tuần này tập trung lấy lại cảm giác với code C++ và làm quen nga
 - [X] Ôn tập Hàm (Functions). Phân biệt rõ Truyền tham trị (Pass by value) và Truyền tham chiếu (Pass by reference). 
 
 ### Ngày 4: 
-- Ôn tập Mảng tĩnh (Static Array) và Chuỗi (std::string). Viết hàm đảo ngược chuỗi, tìm phần tử lớn nhất trong 
+- [X] Ôn tập Mảng tĩnh (Static Array) và Chuỗi (std::string). Viết hàm đảo ngược chuỗi, tìm phần tử lớn nhất trong 
 mảng. 
 
 ### Ngày 5: 
