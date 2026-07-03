@@ -24,7 +24,7 @@ Tuần này tập trung lấy lại cảm giác với code C++ và làm quen nga
 mảng. 
 
 ### Ngày 5: 
-- Con trỏ (Pointers) cơ bản. Hiểu khái niệm địa chỉ ô nhớ (&) và giá trị tại địa chỉ (*). 
+- [X] Con trỏ (Pointers) cơ bản. Hiểu khái niệm địa chỉ ô nhớ (&) và giá trị tại địa chỉ (*). 
 
 ### Ngày 6: 
 - Con trỏ và Mảng. Thử viết một hàm sử dụng con trỏ để duyệt qua các phần tử của mảng thay vì dùng index i.
