@@ -27,7 +27,7 @@ mảng.
 - [X] Con trỏ (Pointers) cơ bản. Hiểu khái niệm địa chỉ ô nhớ (&) và giá trị tại địa chỉ (*). 
 
 ### Ngày 6: 
-- Con trỏ và Mảng. Thử viết một hàm sử dụng con trỏ để duyệt qua các phần tử của mảng thay vì dùng index i.
+- [X] Con trỏ và Mảng. Thử viết một hàm sử dụng con trỏ để duyệt qua các phần tử của mảng thay vì dùng index i.
   
 ### Ngày 7: 
 - Tổng hợp tuần. Viết một chương trình nhỏ (ví dụ: một tool CLI đơn giản để tính toán mã hash giả lập từ một chuỗi đầu vào) bằng các kiến thức đã học. Push lên Git.
