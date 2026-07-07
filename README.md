@@ -36,10 +36,10 @@ mảng.
 Chuyển đổi tư duy từ viết code tuần tự sang mô hình hóa các thực thể.
 
 ### Ngày 8: 
-- Class và Object. Định nghĩa các thuộc tính (attributes) và phương thức (methods) cơ bản. Constructors & Destructors.
+- [X] Class và Object. Định nghĩa các thuộc tính (attributes) và phương thức (methods) cơ bản. Constructors & Destructors.
 
 ### Ngày 9: 
-- Tính đóng gói (Encapsulation). Sử dụng access modifiers (private, public, protected) và viết các hàm getter/setter.
+- [X] Tính đóng gói (Encapsulation). Sử dụng access modifiers (private, public, protected) và viết các hàm getter/setter.
 
 ### Ngày 10: 
 - Tính kế thừa (Inheritance). Cách tạo class con kế thừa từ class cha.
