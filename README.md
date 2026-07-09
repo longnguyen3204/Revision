@@ -42,7 +42,7 @@ Chuyển đổi tư duy từ viết code tuần tự sang mô hình hóa các th
 - [X] Tính đóng gói (Encapsulation). Sử dụng access modifiers (private, public, protected) và viết các hàm getter/setter.
 
 ### Ngày 10: 
-- Tính kế thừa (Inheritance). Cách tạo class con kế thừa từ class cha.
+- [X] Tính kế thừa (Inheritance). Cách tạo class con kế thừa từ class cha.
 
 ### Ngày 11: 
 - Tính đa hình (Polymorphism). Tìm hiểu hàm ảo (virtual functions) và Overriding.
